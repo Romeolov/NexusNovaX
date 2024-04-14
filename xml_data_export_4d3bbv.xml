@@ -1,0 +1,3 @@
+if (num % i == 0 || num % (i + 2) == 0) return false;
+int a = 36, b = 24;
+System.out.println(number + " is not an Armstrong number.");
